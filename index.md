@@ -2,8 +2,6 @@
 layout: "layout"
 ---
 
-Covfefe-19!
-
 I am {{ site.author }} from {{ site.address }}.
 
 * [Generating a GPG key-pair](001.md)
@@ -13,5 +11,5 @@ I am {{ site.author }} from {{ site.address }}.
 * [GPG Key: Import](007.md)
 * [Encryption: Asymmetric](006.md)
 
-May the fork() be with you!
+This is the way!
 
