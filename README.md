@@ -1,2 +1,1 @@
-# gnupg
-GNUPG
+index.md
