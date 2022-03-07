@@ -12,10 +12,10 @@ sitemap:          "true"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-urlweb:           "https://mcdumbdumb.github.io/gnupg/"
+urlweb:           "https://osgtw.github.io/gnupg/"
 urlcontact:       "TBS"
-urlgithub:        "https://github.com/mcdumbdumb/gnupg/"
-urlghpage:        "https://mcdumbdumb.github.io/gnupg/"
+urlgithub:        "https://github.com/osgtw/gnupg/"
+urlghpage:        "https://osgtw.github.io/gnupg/"
 keywords:         "jekyll, testing"
 github:           [metadata]
 
